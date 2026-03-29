@@ -1,0 +1,5 @@
+Key Insights:
+- Higher hiring does not guarantee better ratings
+- Salary transparency has weak correlation with satisfaction
+- Some issues strongly reduce company ratings
+- Engagement slightly improves rating
